@@ -7,7 +7,7 @@
     "@ckeditor/ckeditor5-build-decoupled-document": "^19.0.0",
     "@ckeditor/ckeditor5-core": "^19.0.0",
     "@ckeditor/ckeditor5-engine": "^19.0.0",
-    "@ckeditor/ckeditor5-image": "^19.0.0",
+    "@ckeditor/ckeditor5-image": "^27.0.0",
     "@ckeditor/ckeditor5-react": "^2.1.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
